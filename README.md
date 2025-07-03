@@ -1,4 +1,4 @@
-# 🤖 Knight Bot
+# 🤖 AZH4N 7YT3R BUG B0T 🫰👑
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -117,8 +117,9 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
+    git clone https://github.com/Sycodark782/B4D-BUG.git
+    ls
+    cd 
     ```
 
 2. **Install the dependencies:**
